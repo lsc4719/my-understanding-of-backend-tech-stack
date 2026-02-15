@@ -1,3 +1,5 @@
+## Core
+
 | tech | description |
 | - | - |
 | Spring Boot | de-facto standard java backend framework |
@@ -6,3 +8,10 @@
 | k8s | Make a cluster behave like a single system (container orchestration) |
 | Linux | super duper powerful OS (de-facto standard OS for servers and cloud environments) |
 | AWS | de-facto standard cloud platform for deploying and operating backend systems |
+
+## Others
+
+| tech | description |
+| - | - |
+| AWS | de-facto standard cloud platform for deploying and operating backend systems |
+| PostgreSQL/MySQL | primary relational database for OLTP workloads |
