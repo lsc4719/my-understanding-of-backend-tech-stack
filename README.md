@@ -13,6 +13,7 @@
 
 | tech | description |
 | - | - |
+| Next.js | - |
 | React | - |
 | TypeScript | - |
 | Vercel | - | 
@@ -31,6 +32,7 @@
 
 | tech | description |
 | - | - |
+| Next.js | - |
 | React | - |
 | TypeScript | - |
 | Vercel | - |
