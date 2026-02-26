@@ -11,6 +11,12 @@
 
 ## Enterprise Frontend
 
+| tech | description |
+| - | - |
+| React | - |
+| TypeScript | - |
+| Vercel | - | 
+
 ## Personal Project - Backend
 
 | tech | description |
@@ -26,4 +32,5 @@
 | tech | description |
 | - | - |
 | React | - |
+| TypeScript | - |
 | Vercel | - |
