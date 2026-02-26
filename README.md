@@ -36,3 +36,7 @@
 | React | - |
 | TypeScript | - |
 | Vercel | - |
+
+## References
+
+- https://amplifying.ai/research/claude-code-picks
