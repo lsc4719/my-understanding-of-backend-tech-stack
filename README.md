@@ -1,4 +1,4 @@
-## Core
+## Enterprise Backend
 
 | tech | description |
 | - | - |
@@ -9,9 +9,20 @@
 | Linux | super duper powerful OS (de-facto standard OS for servers and cloud environments) |
 | AWS | de-facto standard cloud platform for deploying and operating backend systems |
 
-## Others
+## Enterprise Frontend
+
+## Personal Project - Backend
 
 | tech | description |
 | - | - |
-| AWS | de-facto standard cloud platform for deploying and operating backend systems |
-| PostgreSQL/MySQL | primary relational database for OLTP workloads |
+| Node.js | - |
+| TypeScript | - |
+| Docker | - |
+| Render | - |
+| Linux | - |
+
+## Personal Project - Frontend
+
+| tech | description |
+| - | - |
+| React | - |
