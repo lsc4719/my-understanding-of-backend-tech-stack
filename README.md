@@ -25,6 +25,7 @@
 | Node.js | - |
 | TypeScript | - |
 | Docker | - |
+| Supabase | - |
 | Render | - |
 | Linux | - |
 
